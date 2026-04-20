@@ -1,6 +1,7 @@
 # Customer-Behavior-Analysis
 
 📊 Customer Behavior Analysis
+
 📌 Overview
 
 This project is an end-to-end data analytics solution focused on understanding customer behavior using Python, SQL, and Power BI. It covers the complete workflow from raw data processing to building an interactive dashboard and presenting insights.
